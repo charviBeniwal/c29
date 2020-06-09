@@ -20,7 +20,7 @@ class Hanger{
        }
     }
      fly(){
-        this.sling.bodyA = null
+        this.hanger.bodyA = null
     }
     
 }
